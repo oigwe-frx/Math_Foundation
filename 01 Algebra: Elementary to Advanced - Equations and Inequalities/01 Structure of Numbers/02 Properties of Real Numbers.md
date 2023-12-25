@@ -21,7 +21,7 @@
 ## Properties w/ Real Numbers
 
 ###  __Closure Property__:
-  - if a and b are any real numbers: a,b ∈ R ( a and b are elements of R). Then the set of real numbers is closed with respect to addition and multiplication
+  - If a and b are any real numbers: a,b ∈ R ( a and b are elements of R). Then the set of real numbers is closed with respect to addition and multiplication
     - So a + b is always a real number, and a * b is always a real number, and
     - let a,b ∈ R - then a + b ∈ R, a*b ∈ R 
 
@@ -70,11 +70,11 @@
 
 ## Bowties Method for Substracting and Adding Fractions
 
-1. Multiply top left numerator w/ bottom right denomenator
+1. Multiply top left numerator w/ bottom right denominator
 2. That number is the 1st new numerator component
 3. In the new numerator carry over the +/- from the old fraction
 4. Repeat steps 1 and 2 for the inverse
-5. Multiple the denomenators - they will become the denomenators of the new fraction
+5. Multiple the denominator - they will become the denominator of the new fraction
 
 Ex. Add:  1/2 + 3/5 -> ((1*5) + (3*2)) / (2*5) => (5 + 6) / 10 => 11/10
 
@@ -82,9 +82,9 @@ Ex: Substract: 4/3 - 1/8 => ((4*8) - (1*3)) / (3*8) => (32 - 3)/24 => 29/24
 
 ## Horizontal Method for Multiplying Fractions
 1. Multiple the numerators
-2. Multiple the denomenators
+2. Multiple the denominator
 
-# Horizontal Method for Dividing Fractions
+## Horizontal Method for Dividing Fractions
 1. (a/b) / (c/d)
 2. (a/b) * (d/c)
 3. (a*d)/ (b*c)
