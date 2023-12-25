@@ -14,6 +14,10 @@
 - Square roots are positive numbers
 - Square root of 0, √0, is allowed - √0 = 0
 
+## Order of Operations
+
+![Order of Operations](../../Images/01/Order_of_Operations_Pyramid.png)
+
 ## Properties w/ Real Numbers
 
 ###  __Closure Property__:
@@ -58,7 +62,32 @@
     - a * (b + c) = (a * b) + (a * c)
     - For example, if you have 2 * (3 + 4), you can distribute the multiplication, resulting in (2 * 3) + (2 * 4), which equals 6 + 8, or 14.
 
-- __Distributive Property of Multiplication over Subtraction: __
-  - Similarly, this form of the distributive property states that when you multiply a number by the difference of two other numbers, you can distribute the multiplication to each of the numbers inside the parentheses. In symbolic terms, for any numbers a, b, and c:
-  - (a * (b - c) = (a * b) - (a * c)
-  - For example, if you have 2 * (5 - 3), you can distribute the multiplication, resulting in (2 * 5) - (2 * 3), which equals 10 - 6, or 4. 
+  - __Distributive Property of Multiplication over Subtraction__:
+    - Similarly, this form of the distributive property states that when you multiply a number by the difference of two other numbers, you can distribute the multiplication to each of the numbers inside the parentheses. In symbolic terms, for any numbers a, b, and c:
+    - (a * (b - c) = (a * b) - (a * c)
+    - For example, if you have 2 * (5 - 3), you can distribute the multiplication, resulting in (2 * 5) - (2 * 3), which equals 10 - 6, or 4. 
+
+
+## Bowties Method for Substracting and Adding Fractions
+
+1. Multiply top left numerator w/ bottom right denomenator
+2. That number is the 1st new numerator component
+3. In the new numerator carry over the +/- from the old fraction
+4. Repeat steps 1 and 2 for the inverse
+5. Multiple the denomenators - they will become the denomenators of the new fraction
+
+Ex. Add:  1/2 + 3/5 -> ((1*5) + (3*2)) / (2*5) => (5 + 6) / 10 => 11/10
+
+Ex: Substract: 4/3 - 1/8 => ((4*8) - (1*3)) / (3*8) => (32 - 3)/24 => 29/24
+
+## Horizontal Method for Multiplying Fractions
+1. Multiple the numerators
+2. Multiple the denomenators
+
+# Horizontal Method for Dividing Fractions
+1. (a/b) / (c/d)
+2. (a/b) * (d/c)
+3. (a*d)/ (b*c)
+git a
+
+
