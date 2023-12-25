@@ -31,7 +31,7 @@
   - a * b = b * a
 - subtraction is not communicative
   -  2 - 3 ≠ 3 - 2  (-1 ≠ 1)
-- division is not communication
+- division is not communicative
 
 ### Associative Properties
  -  The associative property is a fundamental concept in mathematics, particularly in the context of arithmetic and algebra. It refers to the property of how operations (such as addition and multiplication) can be grouped without changing the result. The associative property states that for a given set of elements and a specific operation, the grouping of those elements does not affect the final outcome.
@@ -80,14 +80,19 @@ Ex. Add:  1/2 + 3/5 -> ((1*5) + (3*2)) / (2*5) => (5 + 6) / 10 => 11/10
 
 Ex: Substract: 4/3 - 1/8 => ((4*8) - (1*3)) / (3*8) => (32 - 3)/24 => 29/24
 
+![Bowties Method for Substracting and Adding Fractions](../../Images/01/Add:Subtract_Fractions.png)
+
 ## Horizontal Method for Multiplying Fractions
 1. Multiple the numerators
 2. Multiple the denominator
+
+![Horizontal Method for Multiplying Fractions](../../Images/01/Multiply_Fractions.png)
 
 ## Horizontal Method for Dividing Fractions
 1. (a/b) / (c/d)
 2. (a/b) * (d/c)
 3. (a*d)/ (b*c)
-git a
+
+![Horizontal Method for Dividing Fractions](../../Images/01/Divide_Fractions.png)
 
 
