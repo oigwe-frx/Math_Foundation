@@ -8,7 +8,7 @@
 | Irrational Numbers  | none       | All number that cannot be written as a ratio of two integers. For example, π and square root of 2 are irrational numbers |
 | Real Numbers  | R       | All numbers that are either rational or irrational. |
 
-![Number Relationshipts](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/Hw0O_MyZSEGNIFGsoOBBhg_9c57a94195324adab6bba3973188c8f1_numbers_diagram.png?expiry=1698105600000&hmac=qIc-ZlEnXVOW6i-hY92pnRXbzmfvcGI4I4b77Zj3-aQ)
+![Number Relationshipts](../../Images/Number_Relationships.png) 
  
  ## Natural Numbers "ℕ"
 

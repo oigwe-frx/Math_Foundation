@@ -48,7 +48,7 @@
 ### Identies Property
    - Addition
      - Add a to 0, the answer will be a
-     - Multiple a * 1, the answer will be a 
+     - Multiple a * 1, the answer will be a  
 
 ### Distribution Property
 - The distributive property is a fundamental property in mathematics that describes how multiplication interacts with addition or subtraction. It relates to the distribution of one operation over another. In essence, it allows you to perform an operation on two numbers separately and then combine the results. There are two main forms of the distributive property:
